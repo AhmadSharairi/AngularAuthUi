@@ -13,7 +13,7 @@ This project contains these steps :
 10. Create Role Based Login
 11. Create a Dummy Dashboard using Html Template
 
--This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
 
